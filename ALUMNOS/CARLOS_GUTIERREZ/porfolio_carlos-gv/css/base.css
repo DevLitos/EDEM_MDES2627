@@ -5,6 +5,8 @@
     --color-secondary: #252a27;
     --color-soft: #a7ada8;
     --color-surface: #111512;
+    --color-project-section-background: #0c0f0d;
+    --gradient-01:linear-gradient(110deg, rgba(244, 119, 79, 0.12), transparent 55%);
 
     --font-primary: 'Fira Code', monospace;
 
@@ -16,9 +18,7 @@
     --spacing-section: 160px;
 }
 
-*,
-*::before,
-*::after {
+*{
     box-sizing: border-box;
 }
 

@@ -1,10 +1,9 @@
 .now{
     max-width: 1440px;
     margin: 0 auto;
-    align-items: center;
     padding: var(--spacing-section);
     background:
-        linear-gradient(110deg, rgba(244, 119, 79, 0.12), transparent 55%),
+        var(--gradient-01),
         var(--color-background);
 }
 
