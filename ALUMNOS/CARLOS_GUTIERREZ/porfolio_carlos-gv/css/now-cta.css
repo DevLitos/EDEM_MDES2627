@@ -1,0 +1,15 @@
+.now{
+    max-width: 1440px;
+    margin: 0 auto;
+    align-items: center;
+    padding: var(--spacing-section);
+    background:
+        linear-gradient(110deg, rgba(244, 119, 79, 0.12), transparent 55%),
+        var(--color-background);
+}
+
+.now__description {
+    margin: 0;
+    color: var(--color-muted);
+    font-size: var(--font-size-medium);
+}
